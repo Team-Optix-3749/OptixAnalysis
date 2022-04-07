@@ -1,1 +1,1 @@
-# Optix-Scouting
+# OptixScouting
